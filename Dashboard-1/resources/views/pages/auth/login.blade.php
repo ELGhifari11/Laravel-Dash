@@ -123,7 +123,7 @@
                     </div>
                 </div>
                 <div class="col-lg-8 col-12 order-lg-2 min-vh-100 background-walk-y position-relative overlay-gradient-bottom order-1"
-                    data-background="{{ asset('img/unsplash/login-bg.jpg') }}">
+                    data-background="{{ asset('img/unsplash/Login-Bg.jpeg') }}">
                     <div class="absolute-bottom-left index-2">
                         <div class="text-light p-5 pb-2">
                             <div class="mb-5 pb-3">
@@ -132,7 +132,7 @@
                             </div>
                             Photo by <a class="text-light bb"
                                 target="_blank"
-                                href="https://unsplash.com/photos/a8lTjWJJgLA">Someone</a> on <a
+                                href="https://unsplash.com/photos/black-and-white-laptop-computer-pJaocJrXGFQ">Someone</a> on <a
                                 class="text-light bb"
                                 target="_blank"
                                 href="https://unsplash.com">unsplash.com</a>
