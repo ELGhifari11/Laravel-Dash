@@ -37,7 +37,7 @@
                             alt="logo"
                             width="80"
                             class="shadow-light rounded-circle mb-5 mt-2">
-                        <h4 class="text-dark font-weight-normal">Welcome to <span class="font-weight-bold">EL Startup</span>
+                        <h4 class="text-dark font-weight-normal">Welcome to <span class="font-weight-bold">ELGhifari.site</span>
                         </h4>
                         <p class="text-muted">Before you get started, you must login or register if you don't already
                             have an account.</p>
@@ -91,7 +91,7 @@
                                         tabindex="3"
                                         id="remember-me">
                                     <label class="custom-control-label"
-                                        for="remember-me">Remember Me</label>
+                                        for="remember-me">Ingat Saya ya!</label>
                                 </div>
                             </div>
 
@@ -132,10 +132,10 @@
                             </div>
                             Photo by <a class="text-light bb"
                                 target="_blank"
-                                href="https://unsplash.com/photos/a8lTjWJJgLA">EL Ghifari</a> on <a
+                                href="https://unsplash.com/photos/a8lTjWJJgLA">Someone</a> on <a
                                 class="text-light bb"
                                 target="_blank"
-                                href="https://unsplash.com">Rumah IT</a>
+                                href="https://unsplash.com">unsplash.com</a>
                         </div>
                     </div>
                 </div>
